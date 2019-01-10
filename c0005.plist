@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://kf.lehaqc58432.cn/weiqing.ipa</string>
+                    <string>http://apk.0359zx.cn/C28_c0005.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mimi.photoMaker</string>
+                <string>com.cn.abctest</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>微清</string>
+                <string>1</string>
             </dict>
         </dict>
     </array>

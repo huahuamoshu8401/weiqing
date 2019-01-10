@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://kf.lehaqc58432.cn/weiqing.ipa</string>
+                    <string>https://apk.0359zx.cn/C28_c0005.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aruistar.cmcapp</string>
+                <string>com.mimi.photoMaker</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>

@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://apk.0359zx.cn/C28_c0005.ipa</string>
+                    <string>http://apk.0359zx.cn/C28_c0005.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>微清</string>
+                <string>微清1</string>
             </dict>
         </dict>
     </array>

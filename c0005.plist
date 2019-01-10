@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mimi.photoMaker</string>
+                <string>com.mi.photoMaker</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>微清1</string>
+                <string>微清2</string>
             </dict>
         </dict>
     </array>
